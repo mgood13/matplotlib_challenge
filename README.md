@@ -21,7 +21,7 @@ This program takes data from a mouse study for cancer drugs and visualizes the o
 >drug regimen to determine outliers. We find an outlier in the Infubinol regimen and highlight it
 >on the boxplot that we generate.
 
-## Line / Scater plots
+## Line / Scatter plots
 >First we select a random mouse from the Capomulin regimen and print its tumor volume over time.
 >Next, for all mice in this regimen we create a scatter plot with weight v tumor volume.
 >We find that there is a positive trend between increased weight and increased tumor volume.
